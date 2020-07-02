@@ -36,19 +36,19 @@
             width: 100%;
             display: block !important;
             height: 7vh;
+            border-radius: 5px;
              }
         .consult-form .form-control {
           border: transparent !important;
           border: 1px solid #b8b0b0 !important;
           border: 1px solid transparent;
-          height: 58px !important;
-          width: 150px !important;
+          height: 58px !important;          
           padding-left: 20px;
           padding-right: 20px;
           background: transparent !important;
           color: rgba(0, 0, 0, 0.5) !important;
           font-size: 13px;
-          border-radius: 0px;
+          border-radius: 5px;
           -webkit-box-shadow: none !important;
           box-shadow: none !important; }
           .consult-form .form-control::-webkit-input-placeholder {
